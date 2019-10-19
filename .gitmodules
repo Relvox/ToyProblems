@@ -1,0 +1,3 @@
+[submodule "ToyProblems.wiki"]
+	path = ToyProblems.wiki
+	url = https://github.com/Relvox/ToyProblems.wiki.git
